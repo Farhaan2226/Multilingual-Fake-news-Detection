@@ -4,3 +4,15 @@ __pycache__/
 .env
 .DS_Store
 .ipynb_checkpoints
+
+# Models
+*.pt
+*.pkl
+*.joblib
+
+# Data
+data/
+*.csv
+
+# Virtual env
+venv/
